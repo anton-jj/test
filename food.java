@@ -13,7 +13,15 @@ public class food {
         foodOptions.add("Pannkakor");
         foodOptions.add("Korv"); //Olgas ändringar
         foodOptions.add("Glass"); //Olgas ändringar
+<<<<<<< HEAD
         foodOptions.add("Pannkakor");
         foodOptions.add("Pannkakor");
 	foodOptions.add("Kebab med bröd");
 	
+=======
+        foodOptions.add("Kött");
+        foodOptions.add("Ris");
+
+    }
+}
+>>>>>>> 15687fbbd11304a1a84ba1632d810d5ab03050d8
