@@ -12,6 +12,7 @@ public class food {
         foodOptions.add("Pizza");
         foodOptions.add("Pannkakor");
         foodOptions.add("Korv"); //Olgas ändringar
+        foodOptions.add("Glass"); //Olgas ändringar
 
     }
 }
