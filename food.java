@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class food {
-    private List <String> foodOptions;
+    private List<String> foodOptions;
 
     public Food(){
         foodOptions = new ArrayList<>();
@@ -13,6 +13,11 @@ public class food {
         foodOptions.add("Pannkakor");
         foodOptions.add("Korv"); //Olgas ändringar
         foodOptions.add("Glass"); //Olgas ändringar
+
         foodOptions.add("dolma");
+=======
+        
+
     }
 }
+
